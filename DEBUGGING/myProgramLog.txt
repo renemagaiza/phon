@@ -1,0 +1,161 @@
+ 2008-06-20 08:27:34,034 - DEBUG - Start of program
+ 2008-06-20 08:27:34,034 - DEBUG - Start of factorial(5%)
+ 2008-06-20 08:27:34,034 - DEBUG - i is 1, total is 1
+ 2008-06-20 08:27:34,035 - DEBUG - i is 2, total is 2
+ 2008-06-20 08:27:34,035 - DEBUG - i is 3, total is 6
+ 2008-06-20 08:27:34,035 - DEBUG - i is 4, total is 24
+ 2008-06-20 08:27:34,035 - DEBUG - i is 5, total is 120
+ 2008-06-20 08:27:34,036 - DEBUG - End of factorial(5%)
+ 2008-06-20 08:27:34,036 - DEBUG - End of program
+ 2008-06-20 08:27:40,107 - DEBUG - Start of program
+ 2008-06-20 08:27:40,108 - DEBUG - Start of factorial(5%)
+ 2008-06-20 08:27:40,108 - DEBUG - i is 1, total is 1
+ 2008-06-20 08:27:40,108 - DEBUG - i is 2, total is 2
+ 2008-06-20 08:27:40,108 - DEBUG - i is 3, total is 6
+ 2008-06-20 08:27:40,108 - DEBUG - i is 4, total is 24
+ 2008-06-20 08:27:40,108 - DEBUG - i is 5, total is 120
+ 2008-06-20 08:27:40,109 - DEBUG - End of factorial(5%)
+ 2008-06-20 08:27:40,109 - DEBUG - End of program
+ 2008-06-20 08:30:57,612 - DEBUG - Start of program
+ 2008-06-20 08:30:57,612 - DEBUG - Start of factorial(5%)
+ 2008-06-20 08:30:57,613 - DEBUG - i is 1, total is 1
+ 2008-06-20 08:30:57,613 - DEBUG - i is 2, total is 2
+ 2008-06-20 08:30:57,613 - DEBUG - i is 3, total is 6
+ 2008-06-20 08:30:57,613 - DEBUG - i is 4, total is 24
+ 2008-06-20 08:30:57,613 - DEBUG - i is 5, total is 120
+ 2008-06-20 08:30:57,614 - DEBUG - End of factorial(5%)
+ 2008-06-20 08:30:57,614 - DEBUG - End of program
+ 2008-06-20 08:31:00,757 - DEBUG - Start of program
+ 2008-06-20 08:31:00,758 - DEBUG - Start of factorial(5%)
+ 2008-06-20 08:31:00,758 - DEBUG - i is 1, total is 1
+ 2008-06-20 08:31:00,758 - DEBUG - i is 2, total is 2
+ 2008-06-20 08:31:00,758 - DEBUG - i is 3, total is 6
+ 2008-06-20 08:31:00,759 - DEBUG - i is 4, total is 24
+ 2008-06-20 08:31:00,759 - DEBUG - i is 5, total is 120
+ 2008-06-20 08:31:00,759 - DEBUG - End of factorial(5%)
+ 2008-06-20 08:31:00,760 - DEBUG - End of program
+ 2008-06-20 08:32:27,854 - DEBUG - Start of program
+ 2008-06-20 08:32:27,855 - DEBUG - Start of factorial(5%)
+ 2008-06-20 08:32:27,855 - DEBUG - i is 1, total is 1
+ 2008-06-20 08:32:27,855 - DEBUG - i is 2, total is 2
+ 2008-06-20 08:32:27,855 - DEBUG - i is 3, total is 6
+ 2008-06-20 08:32:27,855 - DEBUG - i is 4, total is 24
+ 2008-06-20 08:32:27,855 - DEBUG - i is 5, total is 120
+ 2008-06-20 08:32:27,856 - DEBUG - End of factorial(5%)
+ 2008-06-20 08:32:27,856 - DEBUG - End of program
+ 2008-06-21 02:09:30,208 - DEBUG - Start of program
+ 2008-06-21 02:09:30,220 - DEBUG - Start of factorial(5%)
+ 2008-06-21 02:09:30,220 - DEBUG - i is 1, total is 1
+ 2008-06-21 02:09:30,220 - DEBUG - i is 2, total is 2
+ 2008-06-21 02:09:30,220 - DEBUG - i is 3, total is 6
+ 2008-06-21 02:09:30,220 - DEBUG - i is 4, total is 24
+ 2008-06-21 02:09:30,220 - DEBUG - i is 5, total is 120
+ 2008-06-21 02:09:30,221 - DEBUG - End of factorial(5%)
+ 2008-06-21 02:09:30,221 - DEBUG - End of program
+ 2008-06-21 02:51:47,732 - DEBUG - Start of program
+ 2008-06-21 02:51:47,732 - DEBUG - Start of factorial(5%)
+ 2008-06-21 02:51:47,732 - DEBUG - i is 1, total is 1
+ 2008-06-21 02:51:47,732 - DEBUG - i is 2, total is 2
+ 2008-06-21 02:51:47,732 - DEBUG - i is 3, total is 6
+ 2008-06-21 02:51:47,732 - DEBUG - i is 4, total is 24
+ 2008-06-21 02:51:47,732 - DEBUG - i is 5, total is 120
+ 2008-06-21 02:51:47,733 - DEBUG - End of factorial(5%)
+ 2008-06-21 02:51:47,733 - DEBUG - End of program
+ 2008-06-21 02:52:21,134 - DEBUG - Start of program
+ 2008-06-21 02:52:21,135 - DEBUG - Start of factorial(5%)
+ 2008-06-21 02:52:21,135 - DEBUG - i is 1, total is 1
+ 2008-06-21 02:52:21,135 - DEBUG - i is 2, total is 2
+ 2008-06-21 02:52:21,136 - DEBUG - i is 3, total is 6
+ 2008-06-21 02:52:21,136 - DEBUG - i is 4, total is 24
+ 2008-06-21 02:52:21,136 - DEBUG - i is 5, total is 120
+ 2008-06-21 02:52:21,136 - DEBUG - End of factorial(5%)
+ 2008-06-21 02:52:21,136 - DEBUG - End of program
+ 2008-06-18 09:44:11,491 - DEBUG - Start of program
+ 2008-06-18 09:44:11,510 - DEBUG - Start of factorial(5%)
+ 2008-06-18 09:44:11,511 - DEBUG - i is 1, total is 1
+ 2008-06-18 09:44:11,511 - DEBUG - i is 2, total is 2
+ 2008-06-18 09:44:11,512 - DEBUG - i is 3, total is 6
+ 2008-06-18 09:44:11,512 - DEBUG - i is 4, total is 24
+ 2008-06-18 09:44:11,512 - DEBUG - i is 5, total is 120
+ 2008-06-18 09:44:11,513 - DEBUG - End of factorial(5%)
+ 2008-06-18 09:44:11,513 - DEBUG - End of program
+ 2008-06-18 09:44:47,778 - DEBUG - Start of program
+ 2008-06-18 09:46:43,075 - DEBUG - Start of factorial(5%)
+ 2008-06-18 09:46:43,076 - DEBUG - i is 1, total is 1
+ 2008-06-18 09:46:43,076 - DEBUG - i is 2, total is 2
+ 2008-06-18 09:46:43,077 - DEBUG - i is 3, total is 6
+ 2008-06-18 09:46:43,078 - DEBUG - i is 4, total is 24
+ 2008-06-18 09:46:43,078 - DEBUG - i is 5, total is 120
+ 2008-06-18 09:46:43,079 - DEBUG - End of factorial(5%)
+ 2008-06-18 09:46:50,216 - DEBUG - End of program
+ 2008-06-18 09:47:46,548 - DEBUG - Start of program
+ 2008-06-18 09:47:46,549 - DEBUG - Start of factorial(5%)
+ 2008-06-18 09:47:46,550 - DEBUG - i is 1, total is 1
+ 2008-06-18 09:47:46,551 - DEBUG - i is 2, total is 2
+ 2008-06-18 09:47:46,552 - DEBUG - i is 3, total is 6
+ 2008-06-18 09:47:46,553 - DEBUG - i is 4, total is 24
+ 2008-06-18 09:47:46,554 - DEBUG - i is 5, total is 120
+ 2008-06-18 09:47:46,554 - DEBUG - End of factorial(5%)
+ 2008-06-18 09:47:46,556 - DEBUG - End of program
+ 2008-06-18 09:48:13,974 - DEBUG - Start of program
+ 2008-06-18 09:48:13,975 - DEBUG - Start of factorial(5%)
+ 2008-06-18 09:48:13,976 - DEBUG - i is 1, total is 1
+ 2008-06-18 09:48:13,976 - DEBUG - i is 2, total is 2
+ 2008-06-18 09:48:13,976 - DEBUG - i is 3, total is 6
+ 2008-06-18 09:48:13,977 - DEBUG - i is 4, total is 24
+ 2008-06-18 09:48:13,977 - DEBUG - i is 5, total is 120
+ 2008-06-18 09:48:13,977 - DEBUG - End of factorial(5%)
+ 2008-06-18 09:48:13,978 - DEBUG - End of program
+ 2008-06-18 09:48:30,026 - DEBUG - Start of program
+ 2008-06-18 09:48:30,030 - DEBUG - Start of factorial(5%)
+ 2008-06-18 09:48:30,031 - DEBUG - i is 1, total is 1
+ 2008-06-18 09:48:30,031 - DEBUG - i is 2, total is 2
+ 2008-06-18 09:48:30,032 - DEBUG - i is 3, total is 6
+ 2008-06-18 09:48:30,033 - DEBUG - i is 4, total is 24
+ 2008-06-18 09:48:30,033 - DEBUG - i is 5, total is 120
+ 2008-06-18 09:48:30,038 - DEBUG - End of factorial(5%)
+ 2008-06-18 09:48:30,039 - DEBUG - End of program
+ 2008-06-18 09:48:49,567 - DEBUG - Start of program
+ 2008-06-18 09:48:49,572 - DEBUG - Start of factorial(5%)
+ 2008-06-18 09:48:49,573 - DEBUG - i is 1, total is 1
+ 2008-06-18 09:48:49,574 - DEBUG - i is 2, total is 2
+ 2008-06-18 09:48:49,575 - DEBUG - i is 3, total is 6
+ 2008-06-18 09:48:49,575 - DEBUG - i is 4, total is 24
+ 2008-06-18 09:48:49,576 - DEBUG - i is 5, total is 120
+ 2008-06-18 09:48:49,577 - DEBUG - End of factorial(5%)
+ 2008-06-18 09:50:00,676 - DEBUG - Start of program
+ 2008-06-18 09:50:00,683 - DEBUG - Start of factorial(5%)
+ 2008-06-18 09:50:00,684 - DEBUG - i is 1, total is 1
+ 2008-06-18 09:50:00,685 - DEBUG - i is 2, total is 2
+ 2008-06-18 09:50:00,686 - DEBUG - i is 3, total is 6
+ 2008-06-18 09:50:00,687 - DEBUG - i is 4, total is 24
+ 2008-06-18 09:50:00,687 - DEBUG - i is 5, total is 120
+ 2008-06-18 09:50:00,688 - DEBUG - End of factorial(5%)
+ 2008-06-20 17:13:00,384 - DEBUG - Start of program
+ 2008-06-20 17:13:00,393 - DEBUG - Start of factorial(5%)
+ 2008-06-20 17:13:00,393 - DEBUG - i is 1, total is 1
+ 2008-06-20 17:13:00,393 - DEBUG - i is 2, total is 2
+ 2008-06-20 17:13:00,393 - DEBUG - i is 3, total is 6
+ 2008-06-20 17:13:00,393 - DEBUG - i is 4, total is 24
+ 2008-06-20 17:13:00,393 - DEBUG - i is 5, total is 120
+ 2008-06-20 17:13:00,393 - DEBUG - End of factorial(5%)
+ 2008-06-20 17:13:00,394 - DEBUG - End of program
+ 2008-06-20 17:13:33,292 - DEBUG - Start of program
+ 2008-06-20 17:13:33,292 - DEBUG - Start of factorial(5%)
+ 2008-06-20 17:13:33,293 - DEBUG - i is 1, total is 1
+ 2008-06-20 17:13:33,293 - DEBUG - i is 2, total is 2
+ 2008-06-20 17:13:33,293 - DEBUG - i is 3, total is 6
+ 2008-06-20 17:13:33,293 - DEBUG - i is 4, total is 24
+ 2008-06-20 17:13:33,294 - DEBUG - i is 5, total is 120
+ 2008-06-20 17:13:33,294 - DEBUG - End of factorial(5%)
+ 2008-06-20 17:13:33,295 - DEBUG - End of program
+ 2008-06-20 17:20:01,712 - INFO - i is 1, total is 1
+ 2008-06-20 17:20:01,712 - INFO - i is 2, total is 2
+ 2008-06-20 17:20:01,712 - INFO - i is 3, total is 6
+ 2008-06-20 17:20:01,712 - INFO - i is 4, total is 24
+ 2008-06-20 17:20:01,713 - INFO - i is 5, total is 120
+ 2008-06-20 17:57:55,560 - INFO - i is 1, total is 1
+ 2008-06-20 17:57:55,561 - INFO - i is 2, total is 2
+ 2008-06-20 17:57:55,561 - INFO - i is 3, total is 6
+ 2008-06-20 17:57:55,561 - INFO - i is 4, total is 24
+ 2008-06-20 17:57:55,561 - INFO - i is 5, total is 120

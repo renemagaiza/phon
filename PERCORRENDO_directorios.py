@@ -1,0 +1,10 @@
+import os
+os.chdir("D:\\Biblioteca")
+for pastatual, subpasta, arquivo in os.walk("D:\\Biblioteca"):
+    print(f'Directorio atual:: {pastatual} ')
+    print("Suas pastas e subpastas::")
+    for pasta in subpasta:
+        print(f'\\\\{pasta}')
+    print(f'Arquivos da pasta {pastatual}')
+    for arq in arquivo:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              print(arq.ljust(-1200))

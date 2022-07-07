@@ -1,0 +1,5 @@
+2008-06-20 18:08:58,101 - WARNING - O valor de i e 1 e valor de total e 1
+2008-06-20 18:08:58,102 - WARNING - O valor de i e 2 e valor de total e 2
+2008-06-20 18:08:58,102 - WARNING - O valor de i e 3 e valor de total e 6
+2008-06-20 18:08:58,102 - WARNING - O valor de i e 4 e valor de total e 24
+2008-06-20 18:08:58,103 - WARNING - O valor de i e 5 e valor de total e 120

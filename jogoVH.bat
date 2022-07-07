@@ -1,0 +1,1 @@
+@py.exe C:\Users\Rena\Documents\phon\jogo_da_velha.py%*

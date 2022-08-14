@@ -1,0 +1,1 @@
+@py.exe C:\Users\Rena\Documents\phon\WebScript\luck.py%*
